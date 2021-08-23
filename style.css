@@ -109,6 +109,8 @@ p {
   background-color: var(--carousel-bg-color);
 }
 
+/*.carousel max-width:80vw para mobile, 800px para 1024*/
+
 .carousel .slides {
   /* por cada slides que tenga tu carrusel tienes que sumarle un 100% a tu ancho */
   padding-left: 0;
